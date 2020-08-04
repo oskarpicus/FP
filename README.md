@@ -1,2 +1,2 @@
 # FP
-Fundamentals of Programming Labs
+Fundamentals of Programming Labs - First Semester
