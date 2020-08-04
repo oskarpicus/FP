@@ -1,0 +1,21 @@
+are,ana,4,Comedie
+asfasjfasj,anasfnafn,12444,Satira
+b,a,8,Drama
+du acaxala,seme izeqa,3030,Drama
+e,d,19,Satira
+h,g,102,Altele
+is uloxapum,ekogilut e,6542,Comedie
+o,o,4,Comedie
+oo,oo,10,Comedie
+ooooo,oooo,1,Satira
+oqeze afeja,capa okefu,1987,Drama
+pukozew ab,c icujidoma,5073,Satira
+rabilefeg uk,qaw imowosit,605,Satira
+sawubibu ul,ma unewamate,2507,Drama
+w,a,90,Comedie
+w,b,122,Drama
+w,c,129,Satira
+w,d,2120,Altele
+w,e,1239,Comedie
+w,f,124,Drama
+w,g,190,Drama

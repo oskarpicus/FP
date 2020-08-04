@@ -1,0 +1,3 @@
+ana,are,Comedie,4
+a,b,Drama,8
+d,e,Satira,19
